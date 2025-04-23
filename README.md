@@ -8,7 +8,7 @@
 
 ```sh
 # Download the submission ZIP
-unzip mazen-othman_codetest_sonnen.zip -d t800-radar
+unzip mazen-othman_codetest_sonnen.zip -d t800-radar-challenge
 cd t800-radar-challenge
 ```
 
